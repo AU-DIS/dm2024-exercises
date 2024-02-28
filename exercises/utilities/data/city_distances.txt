@@ -1,0 +1,48 @@
+Lissabon (Portugal), 0
+Barreira Alva (Portugal), 107
+Castelo Branco (Portugal), 225
+Salamanca (Spain), 478
+Valladolid (Spain), 598
+Burgos (Spain), 725
+San Sebastian (Spain), 939
+Saintes (France), 1296
+Poitiers (France), 1437
+--
+Chatellerault (France), 41
+Tours (France), 115
+Blois (France), 181
+Orleans (France), 245
+Palaiseau (France), 355
+Paris (France), 382
+Senlis (France), 439
+Roye (France), 503
+Arras (France), 580
+--
+Lille (France), 53
+Kortrijk (Belgium), 85
+Gent (Belgium), 134
+Antwerpen (Belgium), 195
+Eindhoven (Netherlands), 289
+Duisburg (Germany), 388
+Münster (Germany), 491
+Osnabrück (Germany), 549
+Bremen (Germany), 669
+--
+Hamburg (Germany), 128
+Lübeck (Germany), 196
+Heiligenhafen (Germany), 263
+Rødby (Denmark), 323
+Vordingborg (Denmark), 389
+Køge (Denmark), 449
+Kastrup (Denmark), 494
+Malmø (Sweden), 529
+--
+Löddeköpinge (Sweden), 34
+Helsingborg (Sweden), 57
+Ljungby (Sweden), 183
+Värnamo (Sweden), 226
+Vaggeryd (Sweden), 266
+Jönköping (Sweden), 300
+Linköping (Sweden), 428
+Norrköping (Sweden), 471
+Stockholm (Sweden), 633
