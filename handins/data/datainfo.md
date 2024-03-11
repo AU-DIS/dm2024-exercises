@@ -1,4 +1,12 @@
-# DATA
+# DOTA2 GRAPH DATA
+The file dota2graph.pickle contains a graph of hero characters as nodes that are connected to each other.
+An edge is created if two heroes have a Jaccard Similarity over 0.4 between the combined set of top 5 items often bought in each game state {game_start, early_game, mid_game, late_game}. 
+
+Heroes with no edges have been removed from the graph.
+
+Data has been collected from https://docs.opendota.com/
+
+# DOTA2 DATA
 The file dota2.csv contains a table with various attributes of hero characters from the video games Dota2.
 
 The data has been collected from following sources:
