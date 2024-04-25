@@ -6,10 +6,11 @@ import zipfile
 import pickle
 
 __all__ = [
+        'load_market_basket',
         'load_iris',
         'load_iris_PC',
         'load_t7',
-        'load_synthetic_data'
+        'load_synthetic_data',
         'label_to_index',
         'index_to_label',
         'index_to_feature'
